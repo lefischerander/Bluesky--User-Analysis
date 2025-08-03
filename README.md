@@ -8,6 +8,19 @@
 
 This exam project explores user behavior on the Bluesky social network. It covers data ingestion, cleaning, statistical testing, machine learning modeling, and visualization of time series, STLs, distributions, proportions, clustering, and decision trees.
 
+## Key Results
+The analysis segmented Bluesky users into distinct behavioral groups. The optimal number of clusters was found to be five. These groups can be characterized as:
+
+-   **Power Users:** Very active users with high reply, repost, and quote counts.
+-   **Lurkers/Inactive Users:** No activity.
+-   **Conversationalists:** High reply count and ratio.
+-   **Informers:** High repost count and ratio.
+-   **Quoters:** High quote count and ratio.
+
+![Cluster Analysis](images/user_cluster.png)
+
+The project also successfully identified anomalous users whose activity patterns deviated significantly from the norm, which could be useful for spam detection.
+
 ## Tech Stack
 
 | Category         | Tools & Libraries                                                                                                                                                                                                 |
@@ -18,10 +31,6 @@ This exam project explores user behavior on the Bluesky social network. It cover
 | Machine Learning | <img width="20" src="https://github.com/user-attachments/assets/2221a83a-553d-4d60-8204-850649615ec5" /> scikit-learn |
 | Visualization    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="20" /> Matplotlib &nbsp; <img width="20" src="https://github.com/user-attachments/assets/e7bb7247-5b84-40f0-a4ea-e88aad57bf2b" /> Seaborn |
 | Workflow & Dev   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="20" /> Jupyter &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" /> Docker |
-
-## Key Results
-- Identified anomalous and normal users
-- Identified the optimal number of clusters and categorized them depending on their corresponding behavioral patterns
 
 ## Installation and Usage
 
