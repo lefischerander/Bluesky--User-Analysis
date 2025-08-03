@@ -23,7 +23,7 @@ The project also successfully identified anomalous users whose activity patterns
 
 ## Next Steps
 
-A major bottleneck is the poor optimization of various algorithm implementations and data operations. For a smoother future workflow, these should be optimized. 
+A potential bottleneck is the high computational complexity of some used algorithms and the poor optimization, especially in specific data aggregations. For a smoother future workflow, these should be changed or optimized.
 
 After segmenting users into their respective clusters, the next step would be to analyze how users transition between clusters over time. For example, when and why do some users transition from active contributors to Lurkers/Inactive Users? Based on the results, a new model could be built to predict future user behavior based on their behavioral patterns.  
 
