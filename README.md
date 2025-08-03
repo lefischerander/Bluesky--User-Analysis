@@ -6,7 +6,7 @@
 [py-url]: https://www.python.org  
 [license-url]: https://opensource.org/licenses/MIT  
 
-This exam project explores user behavior on the Bluesky social network. It covers data ingestion, cleaning, statistical testing, machine learning modeling, and visualization of time series, STLs, distributions, proportions, clustering, and decision trees.
+The goal of this project is to analyze and understand behavioral patterns of users on the social media platform, Bluesky. The analysis covers the full data science workflow from data ingestion and cleaning to modeling, statistical testing, and visualizations of the results. 
 
 ## Key Results
 The analysis segmented Bluesky users into distinct behavioral groups. The optimal number of clusters was found to be five. These groups can be characterized as:
