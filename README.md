@@ -19,7 +19,7 @@ The analysis segmented Bluesky users into distinct behavioral groups. The optima
 
 ![Cluster Analysis](images/user_cluster.png)
 
-The project also successfully identified anomalous users whose activity patterns deviated significantly from the norm, which could be useful for spam detection.
+The project also successfully identified anomalous users whose activity patterns deviated significantly from the norm, which could be useful for bot detection.
 
 ## Tech Stack
 
