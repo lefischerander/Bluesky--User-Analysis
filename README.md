@@ -36,7 +36,7 @@ For a better understanding of the results and any future work done, an interacti
 | Data Ingestion   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" /> Python 3.10   |
 | Data Cleaning    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20" /> Pandas &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="20" /> NumPy             |
 | Statistics       | <img width="20" src="https://github.com/user-attachments/assets/cb874f34-3529-4300-a225-7299f677d333" /> SciPy  &nbsp; <img width="20" src="https://github.com/user-attachments/assets/0196fb57-b0a4-466d-9554-f2817176a9f5" /> Statsmodels |
-| Machine Learning | <img width="20" src="https://github.com/user-attachments/assets/2221a83a-553d-4d60-8204-850649615ec5" /> scikit-learn |
+| Machine Learning | <img width="20" src="https://github.com/user-attachments/assets/2221a83a-553d-4d60-8204-850649615ec5" /> scikit-learn &nbsp; <img width="20" src="https://github.com/user-attachments/assets/0ed3e72b-a1ff-465d-99d4-c59ffc6b9826" /> UMAP |
 | Visualization    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="20" /> Matplotlib &nbsp; <img width="20" src="https://github.com/user-attachments/assets/e7bb7247-5b84-40f0-a4ea-e88aad57bf2b" /> Seaborn |
 | Workflow & Dev   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="20" /> Jupyter &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" /> Docker |
 
