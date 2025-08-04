@@ -17,7 +17,7 @@ The analysis segmented Bluesky users into distinct behavioral groups. The optima
 -   **Informers:** High repost count and ratio.
 -   **Quoters:** High quote count and ratio.
 
-![Cluster Analysis](images/user_cluster.png)
+![Cluster Analysis](images/usertype_cluster.png)
 
 The project also successfully identified anomalous users whose activity patterns deviated significantly from the norm, which could be useful for bot detection.
 
